@@ -1,0 +1,12 @@
+int main()
+{
+   int m,p,s=0;
+   scanf("%d%d",&m,&p);
+   p=100-p;
+   while(m>0)
+   {
+       s=s+x;
+       x=(p*m)/100;
+   }
+   printf("%d",s);
+   return 0;
